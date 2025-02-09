@@ -5,6 +5,8 @@ import os
 
 app = Flask(__name__)
 
+DRUG_DATA_FOLDER = "Drug_data"
+
 def fetch_drug_data(drug_name):
     """Fetch interaction data for a drug from PubChem API."""
     url = f"https://pubchem.ncbi.nlm.nih.gov/sdq/sdqagent.cgi?infmt=json&outfmt=csv&query={{%22download%22:%22*%22,%22collection%22:%22drugbankddi%22,%22order%22:[%22cid2,asc%22],%22start%22:1,%22limit%22:10000000,%22downloadfilename%22:%22pubchem_name_%5E{drug_name}%24_drugbankddi%22,%22where%22:{{%22ands%22:[{{%22name%22:%22%5E{drug_name}%24%22}}]}}}}"
@@ -12,7 +14,8 @@ def fetch_drug_data(drug_name):
     try:
         response = httpx.get(url)
         response.raise_for_status()
-        filename = f"{drug_name}_response.csv"
+        # filename = f"{drug_name}_response.csv"
+        filename = os.path.join(DRUG_DATA_FOLDER, f"{drug_name}_response.csv")
 
         # Save API response as a CSV file
         with open(filename, "wb") as file:
@@ -34,7 +37,8 @@ def search_interactions_for_drugs(drugs_to_check):
 
     # Read saved files and search for interactions
     for drug_name in drugs_to_check:
-        filename = f"{drug_name}_response.csv"
+        # filename = f"{drug_name}_response.csv"
+        filename = os.path.join(DRUG_DATA_FOLDER, f"{drug_name}_response.csv")
         if os.path.exists(filename):
             with open(filename, newline='', encoding='utf-8') as file:
                 reader = csv.reader(file)
