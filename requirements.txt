@@ -1,0 +1,5 @@
+midodrine,4195
+
+pubchempy
+httpx
+flask

@@ -682,6 +682,7 @@
 13505,1775,DB00252,Phenytoin,DB01081,Diphenoxylate,The risk or severity of CNS depression can be increased when Phenytoin is combined with Diphenoxylate.
 13791,1775,DB00252,Phenytoin,DB13956,Estradiol valerate,The serum concentration of Estradiol valerate can be decreased when it is combined with Phenytoin.
 14052,1775,DB00252,Phenytoin,DB00330,Ethambutol,The metabolism of Phenytoin can be decreased when combined with Ethambutol.
+14113,1775,DB00252,Phenytoin,DB13455,Phenibut,The risk or severity of CNS depression can be increased when Phenytoin is combined with Phenibut.
 14584,1775,DB00252,Phenytoin,DB01463,Fencamfamin,The risk or severity of CNS depression can be increased when Phenytoin is combined with Fencamfamin.
 14670,1775,DB00252,Phenytoin,DB12958,Prothipendyl,The risk or severity of CNS depression can be increased when Phenytoin is combined with Prothipendyl.
 14677,1775,DB00252,Phenytoin,DB00902,Methdilazine,The therapeutic efficacy of Phenytoin can be decreased when used in combination with Methdilazine.
@@ -889,7 +890,6 @@
 59708,1775,DB00252,Phenytoin,DB11868,Etiracetam,The risk or severity of CNS depression can be increased when Phenytoin is combined with Etiracetam.
 59757,1775,DB00252,Phenytoin,DB11466,Tepoxalin,The serum concentration of Phenytoin can be increased when it is combined with Tepoxalin.
 59768,1775,DB00252,Phenytoin,DB00187,Esmolol,The metabolism of Phenytoin can be decreased when combined with Esmolol.
-60063,1775,DB00252,Phenytoin,DB14025,Clinafloxacin,Clinafloxacin may decrease the excretion rate of Phenytoin which could result in a higher serum level.
 60149,1775,DB00252,Phenytoin,DB06144,Sertindole,The metabolism of Sertindole can be increased when combined with Phenytoin.
 60198,1775,DB00252,Phenytoin,DB00990,Exemestane,The metabolism of Exemestane can be increased when combined with Phenytoin.
 60490,1775,DB00252,Phenytoin,DB00744,Zileuton,The metabolism of Zileuton can be increased when combined with Phenytoin.
@@ -1327,6 +1327,7 @@
 4369359,1775,DB00252,Phenytoin,DB01261,Sitagliptin,The metabolism of Phenytoin can be decreased when combined with Sitagliptin.
 4470573,1775,DB00252,Phenytoin,DB02245,7-Deazaguanine,The serum concentration of 7-Deazaguanine can be decreased when it is combined with Phenytoin.
 4659569,1775,DB00252,Phenytoin,DB00323,Tolcapone,The risk or severity of CNS depression can be increased when Phenytoin is combined with Tolcapone.
+4921596,1775,DB00252,Phenytoin,DB14025,Clinafloxacin,Clinafloxacin may decrease the excretion rate of Phenytoin which could result in a higher serum level.
 5129076,1775,DB00252,Phenytoin,DB14507,Lithium citrate,The risk or severity of adverse effects can be increased when Phenytoin is combined with Lithium citrate.
 5277135,1775,DB00252,Phenytoin,DB09101,Elvitegravir,The metabolism of Phenytoin can be decreased when combined with Elvitegravir.
 5280343,1775,DB00252,Phenytoin,DB04216,Quercetin,The metabolism of Phenytoin can be decreased when combined with Quercetin.
@@ -1690,7 +1691,6 @@
 21117946,1775,DB00252,Phenytoin,DB12989,Neosaxitoxin,The therapeutic efficacy of Neosaxitoxin can be decreased when used in combination with Phenytoin.
 21158560,1775,DB00252,Phenytoin,DB13648,Alcuronium,The therapeutic efficacy of Alcuronium can be decreased when used in combination with Phenytoin.
 21302490,1775,DB00252,Phenytoin,DB06077,Lumateperone,The serum concentration of Lumateperone can be decreased when it is combined with Phenytoin.
-21584777,1775,DB00252,Phenytoin,DB13280,Aluminium acetoacetate,Aluminium acetoacetate can cause a decrease in the absorption of Phenytoin resulting in a reduced serum concentration and potentially a decrease in efficacy.
 21733122,1775,DB00252,Phenytoin,DB05232,Tetrodotoxin,The risk or severity of methemoglobinemia can be increased when Phenytoin is combined with Tetrodotoxin.
 22024915,1775,DB00252,Phenytoin,DB11737,Icotinib,The metabolism of Icotinib can be increased when combined with Phenytoin.
 22609888,1775,DB00252,Phenytoin,DB13993,MRK-409,The risk or severity of CNS depression can be increased when Phenytoin is combined with MRK-409.
@@ -1808,6 +1808,7 @@
 56649450,1775,DB00252,Phenytoin,DB12015,Alpelisib,The serum concentration of Alpelisib can be decreased when it is combined with Phenytoin.
 56841872,1775,DB00252,Phenytoin,DB13491,Fluperolone,The serum concentration of Fluperolone can be decreased when it is combined with Phenytoin.
 56841975,1775,DB00252,Phenytoin,DB13359,Magnesium aspartate,Magnesium aspartate can cause a decrease in the absorption of Phenytoin resulting in a reduced serum concentration and potentially a decrease in efficacy.
+56842233,1775,DB00252,Phenytoin,DB14027,Taspoglutide,The therapeutic efficacy of Taspoglutide can be decreased when used in combination with Phenytoin.
 56843331,1775,DB00252,Phenytoin,DB13928,Semaglutide,The therapeutic efficacy of Semaglutide can be decreased when used in combination with Phenytoin.
 56944144,1775,DB00252,Phenytoin,DB11951,Lemborexant,The serum concentration of Lemborexant can be decreased when it is combined with Phenytoin.
 56959087,1775,DB00252,Phenytoin,DB09049,Naloxegol,The metabolism of Naloxegol can be increased when combined with Phenytoin.
@@ -1829,6 +1830,7 @@
 68165256,1775,DB00252,Phenytoin,DB12267,Brigatinib,The metabolism of Brigatinib can be increased when combined with Phenytoin.
 68498031,1775,DB00252,Phenytoin,DB09297,Paritaprevir,The metabolism of Paritaprevir can be increased when combined with Phenytoin.
 68748835,1775,DB00252,Phenytoin,DB15328,Ubrogepant,The serum concentration of Ubrogepant can be decreased when it is combined with Phenytoin.
+70691388,1775,DB00252,Phenytoin,DB01278,Pramlintide,The therapeutic efficacy of Pramlintide can be decreased when used in combination with Phenytoin.
 70789197,1775,DB00252,Phenytoin,DB00364,Sucralfate,Sucralfate can cause a decrease in the absorption of Phenytoin resulting in a reduced serum concentration and potentially a decrease in efficacy.
 71226662,1775,DB00252,Phenytoin,DB11703,Acalabrutinib,The metabolism of Acalabrutinib can be increased when combined with Phenytoin.
 71481097,1775,DB00252,Phenytoin,DB11942,Selinexor,The metabolism of Selinexor can be increased when combined with Phenytoin.
@@ -1855,13 +1857,11 @@
 73415751,1775,DB00252,Phenytoin,DB13626,Aluminium glycinate,Aluminium glycinate can cause a decrease in the absorption of Phenytoin resulting in a reduced serum concentration and potentially a decrease in efficacy.
 73415812,1775,DB00252,Phenytoin,DB13322,Hydrotalcite,Hydrotalcite can cause a decrease in the absorption of Phenytoin resulting in a reduced serum concentration and potentially a decrease in efficacy.
 73442840,1775,DB00252,Phenytoin,DB12161,Deutetrabenazine,The metabolism of Deutetrabenazine can be increased when combined with Phenytoin.
-74441225,1775,DB00252,Phenytoin,DB13455,Phenibut,The risk or severity of CNS depression can be increased when Phenytoin is combined with Phenibut.
 76958517,1775,DB00252,Phenytoin,DB08976,Floctafenine,The serum concentration of Phenytoin can be increased when it is combined with Floctafenine.
 76962649,1775,DB00252,Phenytoin,DB13856,Fluclorolone,The serum concentration of Fluclorolone can be decreased when it is combined with Phenytoin.
 76972919,1775,DB00252,Phenytoin,DB05607,PRX-08066,The risk or severity of CNS depression can be increased when Phenytoin is combined with PRX-08066.
 86294073,1775,DB00252,Phenytoin,DB15490,Zuranolone,The risk or severity of CNS depression can be increased when Zuranolone is combined with Phenytoin.
 86705695,1775,DB00252,Phenytoin,DB15102,Pemigatinib,The metabolism of Pemigatinib can be increased when combined with Phenytoin.
-87453228,1775,DB00252,Phenytoin,DB14027,Taspoglutide,The therapeutic efficacy of Taspoglutide can be decreased when used in combination with Phenytoin.
 89683805,1775,DB00252,Phenytoin,DB13874,Enasidenib,The metabolism of Enasidenib can be increased when combined with Phenytoin.
 89921642,1775,DB00252,Phenytoin,DB12026,Voxilaprevir,The metabolism of Phenytoin can be decreased when combined with Voxilaprevir.
 90311989,1775,DB00252,Phenytoin,DB11799,Bictegravir,The metabolism of Bictegravir can be increased when combined with Phenytoin.
@@ -1879,6 +1879,7 @@
 118955396,1775,DB00252,Phenytoin,DB16267,Olutasidenib,The therapeutic efficacy of Olutasidenib can be decreased when used in combination with Phenytoin.
 121269225,1775,DB00252,Phenytoin,DB16216,Lazertinib,The metabolism of Lazertinib can be increased when combined with Phenytoin.
 129269915,1775,DB00252,Phenytoin,DB17472,Pirtobrutinib,The serum concentration of Pirtobrutinib can be decreased when it is combined with Phenytoin.
+129721788,1775,DB00252,Phenytoin,DB13280,Aluminium acetoacetate,Aluminium acetoacetate can cause a decrease in the absorption of Phenytoin resulting in a reduced serum concentration and potentially a decrease in efficacy.
 131704185,1775,DB00252,Phenytoin,DB01978,"7,9-Dimethylguanine","The serum concentration of 7,9-Dimethylguanine can be decreased when it is combined with Phenytoin."
 131704274,1775,DB00252,Phenytoin,DB04249,Zinc Substituted Heme C,Zinc Substituted Heme C can cause a decrease in the absorption of Phenytoin resulting in a reduced serum concentration and potentially a decrease in efficacy.
 131704317,1775,DB00252,Phenytoin,DB09265,Lixisenatide,The therapeutic efficacy of Lixisenatide can be decreased when used in combination with Phenytoin.
@@ -1892,7 +1893,6 @@
 135565923,1775,DB00252,Phenytoin,DB16826,Repotrectinib,The serum concentration of Repotrectinib can be decreased when it is combined with Phenytoin.
 137278711,1775,DB00252,Phenytoin,DB15569,Sotorasib,The serum concentration of Sotorasib can be decreased when it is combined with Phenytoin.
 137528262,1775,DB00252,Phenytoin,DB15982,Berotralstat,The metabolism of Phenytoin can be decreased when combined with Berotralstat.
-137699448,1775,DB00252,Phenytoin,DB01278,Pramlintide,The therapeutic efficacy of Pramlintide can be decreased when used in combination with Phenytoin.
 138611145,1775,DB00252,Phenytoin,DB15568,Adagrasib,The serum concentration of Adagrasib can be decreased when it is combined with Phenytoin.
 155903259,1775,DB00252,Phenytoin,DB16691,Nirmatrelvir,The serum concentration of Nirmatrelvir can be decreased when it is combined with Phenytoin.
 "",1775,DB00252,Phenytoin,DB00005,Etanercept,The metabolism of Phenytoin can be increased when combined with Etanercept.

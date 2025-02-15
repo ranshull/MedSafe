@@ -747,6 +747,7 @@
 72287,2249,DB00335,Atenolol,DB01403,Methotrimeprazine,The metabolism of Atenolol can be decreased when combined with Methotrimeprazine.
 72301,2249,DB00335,Atenolol,DB12093,Tetrahydropalmatine,Atenolol may increase the arrhythmogenic activities of Tetrahydropalmatine.
 73078,2249,DB00335,Atenolol,DB14066,Tetrandrine,Atenolol may increase the arrhythmogenic activities of Tetrandrine.
+77074,2249,DB00335,Atenolol,DB13967,Patent Blue,The risk or severity of hypersensitivity reaction can be increased when Patent Blue is combined with Atenolol.
 77918,2249,DB00335,Atenolol,DB04581,1-benzylimidazole,1-benzylimidazole may decrease the antihypertensive activities of Atenolol.
 77991,2249,DB00335,Atenolol,DB00989,Rivastigmine,Atenolol may increase the bradycardic activities of Rivastigmine.
 77992,2249,DB00335,Atenolol,DB00998,Frovatriptan,Frovatriptan may decrease the antihypertensive activities of Atenolol.
@@ -1045,6 +1046,7 @@
 6918606,2249,DB00335,Atenolol,DB06636,Isavuconazonium,The metabolism of Atenolol can be decreased when combined with Isavuconazonium.
 6918612,2249,DB00335,Atenolol,DB11785,Anisodamine,Atenolol may increase the arrhythmogenic activities of Anisodamine.
 6918837,2249,DB00335,Atenolol,DB06603,Panobinostat,The metabolism of Atenolol can be decreased when combined with Panobinostat.
+9567831,2249,DB00335,Atenolol,DB13410,Guanoxabenz,Atenolol may increase the hypotensive activities of Guanoxabenz.
 9571004,2249,DB00335,Atenolol,DB04957,Azimilide,Atenolol may increase the arrhythmogenic activities of Azimilide.
 9801640,2249,DB00335,Atenolol,DB12361,Piclozotan,Piclozotan may decrease the antihypertensive activities of Atenolol.
 9811704,2249,DB00335,Atenolol,DB00284,Acarbose,The therapeutic efficacy of Acarbose can be increased when used in combination with Atenolol.
@@ -1072,7 +1074,6 @@
 9942725,2249,DB00335,Atenolol,DB05885,Seletracetam,Atenolol may increase the arrhythmogenic activities of Seletracetam.
 9948102,2249,DB00335,Atenolol,DB11642,Pitolisant,The metabolism of Atenolol can be decreased when combined with Pitolisant.
 10013505,2249,DB00335,Atenolol,DB05152,NGX267,The risk or severity of adverse effects can be increased when Atenolol is combined with NGX267.
-10060509,2249,DB00335,Atenolol,DB13410,Guanoxabenz,Atenolol may increase the hypotensive activities of Guanoxabenz.
 10096344,2249,DB00335,Atenolol,DB08882,Linagliptin,The therapeutic efficacy of Linagliptin can be increased when used in combination with Atenolol.
 10113978,2249,DB00335,Atenolol,DB06589,Pazopanib,The metabolism of Atenolol can be decreased when combined with Pazopanib.
 10130337,2249,DB00335,Atenolol,DB14754,Solriamfetol,Solriamfetol may decrease the antihypertensive activities of Atenolol.
@@ -1183,11 +1184,13 @@
 54684589,2249,DB00335,Atenolol,DB01397,Magnesium salicylate,Magnesium salicylate may decrease the antihypertensive activities of Atenolol.
 54690031,2249,DB00335,Atenolol,DB06725,Lornoxicam,Lornoxicam may decrease the antihypertensive activities of Atenolol.
 56640146,2249,DB00335,Atenolol,DB09183,Dasabuvir,The metabolism of Dasabuvir can be decreased when combined with Atenolol.
+56842233,2249,DB00335,Atenolol,DB14027,Taspoglutide,The therapeutic efficacy of Taspoglutide can be increased when used in combination with Atenolol.
 56843331,2249,DB00335,Atenolol,DB13928,Semaglutide,The therapeutic efficacy of Semaglutide can be increased when used in combination with Atenolol.
 57379345,2249,DB00335,Atenolol,DB09063,Ceritinib,Atenolol may increase the bradycardic activities of Ceritinib.
 60150535,2249,DB00335,Atenolol,DB16165,Finerenone,The risk or severity of hyperkalemia can be increased when Atenolol is combined with Finerenone.
 66553195,2249,DB00335,Atenolol,DB14881,Oliceridine,The metabolism of Oliceridine can be decreased when combined with Atenolol.
 66645351,2249,DB00335,Atenolol,DB14635,Curcumin sulfate,The metabolism of Atenolol can be decreased when combined with Curcumin sulfate.
+70691388,2249,DB00335,Atenolol,DB01278,Pramlintide,The therapeutic efficacy of Pramlintide can be increased when used in combination with Atenolol.
 71768094,2249,DB00335,Atenolol,DB09068,Vortioxetine,Vortioxetine may decrease the antihypertensive activities of Atenolol.
 73442840,2249,DB00335,Atenolol,DB12161,Deutetrabenazine,The metabolism of Deutetrabenazine can be decreased when combined with Atenolol.
 76957773,2249,DB00335,Atenolol,DB13651,Lorajmine,Atenolol may increase the arrhythmogenic activities of Lorajmine.
@@ -1195,10 +1198,8 @@
 76959818,2249,DB00335,Atenolol,DB13555,Prajmaline,Atenolol may increase the arrhythmogenic activities of Prajmaline.
 76966485,2249,DB00335,Atenolol,DB13590,Calcium pangamate,The therapeutic efficacy of Atenolol can be decreased when used in combination with Calcium pangamate.
 76968835,2249,DB00335,Atenolol,DB09517,Sodium ferric gluconate complex,The risk or severity of hypotension can be increased when Sodium ferric gluconate complex is combined with Atenolol.
-87453228,2249,DB00335,Atenolol,DB14027,Taspoglutide,The therapeutic efficacy of Taspoglutide can be increased when used in combination with Atenolol.
 89683805,2249,DB00335,Atenolol,DB13874,Enasidenib,The metabolism of Enasidenib can be decreased when combined with Atenolol.
 90467622,2249,DB00335,Atenolol,DB16200,Iptacopan,The metabolism of Iptacopan can be decreased when combined with Atenolol.
-101272215,2249,DB00335,Atenolol,DB13967,Patent Blue,The risk or severity of hypersensitivity reaction can be increased when Patent Blue is combined with Atenolol.
 131704185,2249,DB00335,Atenolol,DB01978,"7,9-Dimethylguanine","The risk or severity of adverse effects can be increased when Atenolol is combined with 7,9-Dimethylguanine."
 131704224,2249,DB00335,Atenolol,DB02968,Penicillin G Acyl-Serine,The risk or severity of hyperkalemia can be increased when Atenolol is combined with Penicillin G Acyl-Serine.
 131704317,2249,DB00335,Atenolol,DB09265,Lixisenatide,The therapeutic efficacy of Lixisenatide can be increased when used in combination with Atenolol.
@@ -1210,7 +1211,6 @@
 135565903,2249,DB00335,Atenolol,DB11632,Opicapone,The risk or severity of adverse effects can be increased when Atenolol is combined with Opicapone.
 137528262,2249,DB00335,Atenolol,DB15982,Berotralstat,The metabolism of Atenolol can be decreased when combined with Berotralstat.
 137699399,2249,DB00335,Atenolol,DB15213,25-desacetylrifapentine,The metabolism of Atenolol can be increased when combined with 25-desacetylrifapentine.
-137699448,2249,DB00335,Atenolol,DB01278,Pramlintide,The therapeutic efficacy of Pramlintide can be increased when used in combination with Atenolol.
 138611145,2249,DB00335,Atenolol,DB15568,Adagrasib,The metabolism of Atenolol can be decreased when combined with Adagrasib.
 "",2249,DB00335,Atenolol,DB00005,Etanercept,The metabolism of Atenolol can be increased when combined with Etanercept.
 "",2249,DB00335,Atenolol,DB00022,Peginterferon alfa-2b,The metabolism of Atenolol can be decreased when combined with Peginterferon alfa-2b.
